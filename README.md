@@ -3,7 +3,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=luacy200820&show_icons=true&theme=swift)
 
 ### Personal information  
-- 🏫 I am currently studying a Master of Science in Information Science at National Cheng Kung University.
+- 🏫 I am currently studying a Master of Computer Science and Information Engineering at National Cheng Kung University.
 - 🔥 I am currently learning machine learning, deep learning, Big data, and embedded operating system.
 
 ### Contact information
