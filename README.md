@@ -1,7 +1,10 @@
 ### Hi I'm Jialing 👋
 
+![github stats](https://github-readme-stats.vercel.app/api?username=luacy200820&show_icons=true&theme=swift)
 
-Here are some ideas to get you started:
-
+### Personal information  
 - 🏫 I am currently studying a Master of Science in Information Science at National Cheng Kung University.
-- 🔥 I’m currently learning machine learning, deep learning, Big data, and embedded operating system.
+- 🔥 I am currently learning machine learning, deep learning, Big data, and embedded operating system.
+
+### Contact information
+- 📧 Email: luacy200820@gmail.com
